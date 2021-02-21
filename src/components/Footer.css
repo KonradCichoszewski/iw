@@ -1,0 +1,8 @@
+#footer {
+    scroll-snap-align: end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    background: rgb(66, 66, 66);
+  }
